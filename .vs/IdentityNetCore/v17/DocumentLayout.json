@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DEV\\Documents\\Personal\\AspNetCoreIdentity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4C474A-EEF6-42E6-A321-241D2A6F4824}|IdentityNetCore.csproj|c:\\users\\dev\\documents\\personal\\aspnetcoreidentity\\service\\smtpoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4C474A-EEF6-42E6-A321-241D2A6F4824}|IdentityNetCore.csproj|solutionrelative:service\\smtpoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4C474A-EEF6-42E6-A321-241D2A6F4824}|IdentityNetCore.csproj|c:\\users\\dev\\documents\\personal\\aspnetcoreidentity\\service\\smtpemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4C474A-EEF6-42E6-A321-241D2A6F4824}|IdentityNetCore.csproj|solutionrelative:service\\smtpemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4C474A-EEF6-42E6-A321-241D2A6F4824}|IdentityNetCore.csproj|c:\\users\\dev\\documents\\personal\\aspnetcoreidentity\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4C474A-EEF6-42E6-A321-241D2A6F4824}|IdentityNetCore.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4C474A-EEF6-42E6-A321-241D2A6F4824}|IdentityNetCore.csproj|c:\\users\\dev\\documents\\personal\\aspnetcoreidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A4C474A-EEF6-42E6-A321-241D2A6F4824}|IdentityNetCore.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4C474A-EEF6-42E6-A321-241D2A6F4824}|IdentityNetCore.csproj|c:\\users\\dev\\documents\\personal\\aspnetcoreidentity\\controllers\\identitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4C474A-EEF6-42E6-A321-241D2A6F4824}|IdentityNetCore.csproj|solutionrelative:controllers\\identitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4C474A-EEF6-42E6-A321-241D2A6F4824}|IdentityNetCore.csproj|c:\\users\\dev\\documents\\personal\\aspnetcoreidentity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4C474A-EEF6-42E6-A321-241D2A6F4824}|IdentityNetCore.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4C474A-EEF6-42E6-A321-241D2A6F4824}|IdentityNetCore.csproj|c:\\users\\dev\\documents\\personal\\aspnetcoreidentity\\controllers\\apisecuritycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4C474A-EEF6-42E6-A321-241D2A6F4824}|IdentityNetCore.csproj|solutionrelative:controllers\\apisecuritycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmtpEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\DEV\\Documents\\Personal\\AspNetCoreIdentity\\Service\\SmtpEmailSender.cs",
+              "RelativeDocumentMoniker": "Service\\SmtpEmailSender.cs",
+              "ToolTip": "C:\\Users\\DEV\\Documents\\Personal\\AspNetCoreIdentity\\Service\\SmtpEmailSender.cs",
+              "RelativeToolTip": "Service\\SmtpEmailSender.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T16:24:42.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmtpOptions.cs",
+              "DocumentMoniker": "C:\\Users\\DEV\\Documents\\Personal\\AspNetCoreIdentity\\Service\\SmtpOptions.cs",
+              "RelativeDocumentMoniker": "Service\\SmtpOptions.cs",
+              "ToolTip": "C:\\Users\\DEV\\Documents\\Personal\\AspNetCoreIdentity\\Service\\SmtpOptions.cs",
+              "RelativeToolTip": "Service\\SmtpOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T16:24:39.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\DEV\\Documents\\Personal\\AspNetCoreIdentity\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\DEV\\Documents\\Personal\\AspNetCoreIdentity\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:54:00.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IdentityController.cs",
+              "DocumentMoniker": "C:\\Users\\DEV\\Documents\\Personal\\AspNetCoreIdentity\\Controllers\\IdentityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IdentityController.cs",
+              "ToolTip": "C:\\Users\\DEV\\Documents\\Personal\\AspNetCoreIdentity\\Controllers\\IdentityController.cs",
+              "RelativeToolTip": "Controllers\\IdentityController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:53:48.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DEV\\Documents\\Personal\\AspNetCoreIdentity\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DEV\\Documents\\Personal\\AspNetCoreIdentity\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:53:37.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DEV\\Documents\\Personal\\AspNetCoreIdentity\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\DEV\\Documents\\Personal\\AspNetCoreIdentity\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-12T15:52:12.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiSecurityController.cs",
+              "DocumentMoniker": "C:\\Users\\DEV\\Documents\\Personal\\AspNetCoreIdentity\\Controllers\\ApiSecurityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApiSecurityController.cs",
+              "ToolTip": "C:\\Users\\DEV\\Documents\\Personal\\AspNetCoreIdentity\\Controllers\\ApiSecurityController.cs",
+              "RelativeToolTip": "Controllers\\ApiSecurityController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:53:29.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

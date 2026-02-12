@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PRINCE\\Documents\\Personal project\\UdemyCourse\\Asp.Net-Core-Identity\\Starter\\IdentityNetCore\\IdentityNetCore.csproj": {}
+    "C:\\Users\\DEV\\Documents\\Personal\\AspNetCoreIdentity\\IdentityNetCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PRINCE\\Documents\\Personal project\\UdemyCourse\\Asp.Net-Core-Identity\\Starter\\IdentityNetCore\\IdentityNetCore.csproj": {
+    "C:\\Users\\DEV\\Documents\\Personal\\AspNetCoreIdentity\\IdentityNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PRINCE\\Documents\\Personal project\\UdemyCourse\\Asp.Net-Core-Identity\\Starter\\IdentityNetCore\\IdentityNetCore.csproj",
+        "projectUniqueName": "C:\\Users\\DEV\\Documents\\Personal\\AspNetCoreIdentity\\IdentityNetCore.csproj",
         "projectName": "IdentityNetCore",
-        "projectPath": "C:\\Users\\PRINCE\\Documents\\Personal project\\UdemyCourse\\Asp.Net-Core-Identity\\Starter\\IdentityNetCore\\IdentityNetCore.csproj",
-        "packagesPath": "C:\\Users\\PRINCE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PRINCE\\Documents\\Personal project\\UdemyCourse\\Asp.Net-Core-Identity\\Starter\\IdentityNetCore\\obj\\",
+        "projectPath": "C:\\Users\\DEV\\Documents\\Personal\\AspNetCoreIdentity\\IdentityNetCore.csproj",
+        "packagesPath": "C:\\Users\\DEV\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DEV\\Documents\\Personal\\AspNetCoreIdentity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PRINCE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -36,10 +38,17 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.Facebook": {
               "target": "Package",
@@ -47,7 +56,7 @@
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[3.1.1, )"
+              "version": "[3.1.30, )"
             },
             "Microsoft.AspNetCore.Identity": {
               "target": "Package",
@@ -71,6 +80,12 @@
               "target": "Package",
               "version": "[3.1.0, )"
             },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[3.1.0, )"
@@ -81,7 +96,7 @@
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
-              "version": "[5.6.0, )"
+              "version": "[5.7.0, )"
             }
           },
           "imports": [
@@ -90,7 +105,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -102,7 +118,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
